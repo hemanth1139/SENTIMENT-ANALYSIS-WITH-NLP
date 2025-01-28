@@ -1,1 +1,17 @@
 # SENTIMENT-ANALYSIS-WITH-NLP
+
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : HEMANTH KUMAR D
+
+INTERN ID : CT08JST
+
+DOMAIN : MACHINE LEARNING
+
+DURATION : 4 WEEKS
+
+MENTOR : HARISH NEELAM
+
+*INPUT* :  this movie is amazing and one of the best films in this year
+
+*OUTPUT* : Postivie
