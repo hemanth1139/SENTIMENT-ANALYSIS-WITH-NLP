@@ -12,6 +12,6 @@ DURATION : 4 WEEKS
 
 MENTOR : HARISH NEELAM
 
-*INPUT* :  this movie is amazing and one of the best films in this year
+**INPUT** :  this movie is amazing and one of the best films in this year
 
-*OUTPUT* : Postivie
+**OUTPUT** : Postivie
