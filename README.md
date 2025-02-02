@@ -18,4 +18,4 @@
 
 **INPUT** :  this movie is amazing and one of the best films in this year
 
-**OUTPUT** : Postivie
+**OUTPUT** : Positvie
